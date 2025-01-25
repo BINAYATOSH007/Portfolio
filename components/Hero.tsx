@@ -32,7 +32,7 @@ const Hero = () => {
             words='From Data to Delight: Crafting Seamless User Experience'
             />
             <p className='"text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl' >
-                Hi, I&apos;m Binayatosh Panigrahi,A Data Alchemist & Analyst
+                Hi, I&apos;m Binayatosh Panigrahi,A Data Analyst & Visualization Specialist
             </p>
             <a href='#about'>
                 <MagicButton

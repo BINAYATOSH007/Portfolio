@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a E-Commerce",
+      title: "Currently analyzing and visualizing various datasets.",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -92,7 +92,7 @@ export const navItems = [
       des: " Dashboard designed to visualize and analyze employee attrition data can provide valuable insights into the factors contributing to turnover and help organizations implement targeted retention strategies.",
       img: "/modern-equipped-computer-lab.svg",
       iconLists: ["/tableau-icon-svgrepo-com (2).svg","/mysql-3.svg"],
-      link: " https://public.tableau.com/views/HR_17214537149640/HRANALYSIS?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+      link: " https://github.com/BINAYATOSH007/Tableau-Dashboards",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "This is a dynamic and interactive personal portfolio website developed using React, TypeScript, and Next.js. It showcases my skills, experience, and projects in a visually appealing and user-friendly manner.",
       img: "/1706.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg","/fm.svg","/next.svg","/visual-studio-code-1.svg"],
-      link: "https://github.com/BINAYATOSH007/Portfolio",
+      link: "https://github.com/BINAYATOSH007/Personal-Portfolio-Website",
     },
   ];
   
@@ -207,7 +207,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Data Analyst",
+      title: "Data Analyst & Visualization Specialist",
       desc: "Analyzing and Visualizing complex datasets using Kaggle, pandas, NumPy, Matplotlib, and Seaborn.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
