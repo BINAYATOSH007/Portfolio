@@ -145,7 +145,7 @@ export const navItems = [
       quote:
         "His contributions streamlined the process and ensured a high-quality outcome.",
       name: "Anurag Guru",
-      title: "Software Developer in Secuodosoft Technologies",
+      title: "Senior Consultant in Deloitte",
     },
     {
       quote:
@@ -198,34 +198,50 @@ export const navItems = [
   // ];
   
   export const workExperience = [
+  
     {
       id: 1,
-      title: "Python Intern (Secuodosoft Technologies)",
-      desc: "Applied my skills in data analysis and visualization to drive insights and inform business decisions.",
-      className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
-    },
-    {
-      id: 2,
       title: "Data Analyst & Visualization Specialist",
       desc: "Analyzing and Visualizing complex datasets using Kaggle, pandas, NumPy, Matplotlib, and Seaborn.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
-      id: 3,
+      id: 2,
       title: "Data Alchemist(Banking Card Fraud Detection)",
       desc: "Developed a machine learning-based credit card fraud detection system to identify and prevent fraud transactions",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
-      id: 4,
+      id: 3,
       title: "Tableau(HR Dashboard)",
       desc: "Analyzed a dataset of 1000+ employee records, incorporating demographic,performance, and behavioral features to predict attrition rates.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
+    {
+      id: 4,
+      title: "Python Intern (Secuodosoft Technologies)",
+      desc: "Applied my skills in data analysis and visualization to drive insights and inform business decisions.",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
+    {
+      id: 5,
+      title: "Software Engineer Intern(iServeU)",
+      desc: "Used my skills in backend development and data integration to build authentication systems, create APIs for reporting, and make it easier to track and fix issues in a microservices setup",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
+    {
+      id: 6,
+      title: "Software Engineer Trainee(Cozentus)",
+      desc: "Excited to start my journey at Cozentus as a Software Engineer Trainee, where I’ll work on AI-based systems that can think, learn, and make smart decisions on their own to solve real-world problems.",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
+
   ];
   
   export const socialMedia = [
